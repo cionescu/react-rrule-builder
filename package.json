@@ -1,10 +1,10 @@
 {
-  "name": "react-rrule-generator-2",
+  "name": "react-rrule-builder",
   "version": "1.3.0",
   "author": "Catalin Ionescu <catalin.ionescu282@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cionescu/react-rrule-generator-2.git"
+    "url": "git+https://github.com/cionescu/react-rrule-builder.git"
   },
   "license": "MIT",
   "main": "build/index.js",
@@ -17,9 +17,9 @@
     "deploy": "gh-pages -d build-demo"
   },
   "bugs": {
-    "url": "https://github.com/cionescu/react-rrule-generator-2/issues"
+    "url": "https://github.com/cionescu/react-rrule-builder/issues"
   },
-  "homepage": "https://github.com/cionescu/react-rrule-generator-2",
+  "homepage": "https://github.com/cionescu/react-rrule-builder",
   "devDependencies": {
     "autoprefixer": "7.1.2",
     "babel-cli": "^6.26.0",
